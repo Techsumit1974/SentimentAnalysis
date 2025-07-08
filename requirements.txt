@@ -1,0 +1,9 @@
+# Requirements for IMDB Sentiment Analysis Project
+# To install: pip install -r requirements.txt
+
+pandas>=1.3.0           # Data manipulation and analysis
+numpy>=1.21.0           # Numerical computations
+matplotlib>=3.4.0       # Plotting graphs
+seaborn>=0.11.0         # Statistical data visualization
+scikit-learn>=1.0.0     # Machine learning algorithms and tools
+nltk>=3.6.0             # Natural Language Toolkit for text preprocessing
